@@ -70,6 +70,14 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "ghhb",
+      "category": "pant",
+      "gender": "male",
+      "price": "2000",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
     }
   ]
 }
